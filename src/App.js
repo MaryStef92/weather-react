@@ -6,11 +6,9 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-       
         <Weather />
         <footer>
-          This website was coded by Mariia Stefaniuk, and is
-        { }
+          This project was coded by Mariia Stefaniuk, and is{" "}
           <a
             href=" https://github.com/MaryStef92/weather-react"
             target="_blank"
